@@ -81,6 +81,8 @@ PRODUCT_PACKAGES += \
 	gps.trout \
 	gps.sapphire \
 	copybit.msm7k \
+	audio.primary.msm7k \
+	audio_policy.msm7k \
 	gralloc.msm7k \
 	lights.msm7k
 
@@ -105,6 +107,7 @@ PRODUCT_COPY_FILES += \
 
 # Keylayout / Headset
 PRODUCT_COPY_FILES += \
+    device/htc/dream_sapphire/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
     device/htc/dream_sapphire/keylayout/trout-keypad.kl:system/usr/keylayout/trout-keypad.kl \
     device/htc/dream_sapphire/keylayout/trout-keypad-qwertz.kl:system/usr/keylayout/trout-keypad-qwertz.kl \
     device/htc/dream_sapphire/keylayout/trout-keypad-v2.kl:system/usr/keylayout/trout-keypad-v2.kl \

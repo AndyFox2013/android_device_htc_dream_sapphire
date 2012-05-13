@@ -10,7 +10,7 @@ key 9     8                 WAKE_DROPPED
 key 10    9                 WAKE_DROPPED
 key 11    0                 WAKE_DROPPED
 key 158   BACK              WAKE_DROPPED
-key 230   SOFT_RIGHT        WAKE
+key 230   HOME        WAKE
 key 60    SOFT_RIGHT        WAKE
 key 107   ENDCALL           WAKE_DROPPED
 key 62    ENDCALL           WAKE_DROPPED
