@@ -81,8 +81,8 @@ PRODUCT_PACKAGES += \
 	gps.trout \
 	gps.sapphire \
 	copybit.msm7k \
-	audio.primary.msm7k \
-	audio_policy.msm7k \
+	audio.primary.sapphire \
+	audio_policy.sapphire \
 	gralloc.msm7k \
 	lights.msm7k
 
