@@ -84,7 +84,7 @@ PRODUCT_PACKAGES += \
 	audio.primary.sapphire \
 	audio_policy.sapphire \
 	gralloc.msm7k \
-	lights.msm7k
+	lights.msm7k 
 
 # Install the features available on this device.
 PRODUCT_COPY_FILES += \
